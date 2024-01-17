@@ -1,0 +1,6 @@
+{
+    "editor.cursorStyle": "line-thin",
+    "notebook.lineNumbers": "on",
+    "notebook.outline.showCodeCells": true,
+    "editor.cursorBlinking": "expand"
+}
